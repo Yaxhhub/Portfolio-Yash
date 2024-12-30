@@ -28,7 +28,7 @@ const linkedinIcon= theme === 'light' ? linkedinLight : linkedinDark ;
     </div>
     <div className={styles.info}>
         <h1>Yash <br/>Rajput</h1>
-        <h2>Student/ Developerr</h2>
+        <h2>Student/ Developer</h2>
         <span>
             <a href="https://www.instagram.com/yaxh_rajput?igsh=MXZhbmc3NXhtZjV2ZA==" target='_blank'>
                 <img src={twitterIcon} alt="Twiter icon" />
